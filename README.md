@@ -15,7 +15,7 @@ An interactive Excel dashboard that turns raw bike sales data into clear, visual
 Microsoft Excel (Pivot Tables, Charts, Slicers)
 
 ## Data source
-The dataset was provided as part of the Alex the Analyst data analysis course. The data cleaning, pivot tables, charts, slicers, and dashboard in this project are my own work.
+The dataset was provided as part of the [Alex the Analyst](https://github.com/AlexTheAnalyst/Excel-Tutorial) data analysis course. The data cleaning, pivot tables, charts, slicers, and dashboard in this project are my own work.
 
 ## Files
 - `Excel Project Dataset.xlsx`: the Excel workbook with the data, pivot tables, and dashboard
